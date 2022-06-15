@@ -28,20 +28,20 @@
 
 
 ### Deployment: 36%
-* Application deployed at live URL.
-* Application loads with no errors.
-* Application GitHub URL submitted.
-* GitHub repository contains application code.
+ * Application deployed at live URL.
+ * Application loads with no errors.
+ * Application GitHub URL submitted.
+ * GitHub repository contains application code.
 
 ### Application Quality: 11%
-* Application console is free of errors.
+ * Application console is free of errors.
 
 ### Repository Quality: 13%
-* Repository has a unique name.
-* Repository follows best practices for file structure and naming conventions.
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-* Repository contains multiple descriptive commit messages.
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+ * Repository has a unique name.
+ * Repository follows best practices for file structure and naming conventions.
+ * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+ * Repository contains multiple descriptive commit messages.
+ * Repository contains quality README file with description, screenshot, and link to deployed application.
 
 ### Bonus: +10 Points
 * Application allows users to delete notes.
@@ -50,5 +50,5 @@
  * https://github.com/David-Irving/TechBlog
 
 ### Heroku Link
-
+ * https://git.heroku.com/di-tech-blog-app.git
 
